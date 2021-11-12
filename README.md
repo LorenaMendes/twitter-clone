@@ -1,4 +1,4 @@
-# Twitter Clone in Reacteact
+# Twitter Clone in React
 > A front-end clone of Twitter (dark mode) developed using React and CSS.
 
 ## Demo
